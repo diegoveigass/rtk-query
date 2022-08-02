@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Diego Veiga",
+      "email": "diego.veiga@sad.com"
+    },
+    {
+      "id": "2",
+      "name": "Manu",
+      "email": "manu@manu.com"
+    },
+    {
+      "id": "3",
+      "name": "Lokas",
+      "email": "lokas.lokas@hotmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Marli Veiga",
+      "email": "marli.veiga@sad.com"
+    }
+  ]
+}
